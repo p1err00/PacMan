@@ -1,0 +1,15 @@
+﻿fantôme.obj : error LNK2019: symbole externe non résolu __imp_glutSolidSphere référencé dans la fonction "public: virtual void __cdecl Fantome::Dessiner(void)" (?Dessiner@Fantome@@UEAAXXZ)
+joueur.obj : error LNK2001: symbole externe non résolu __imp_glutSolidSphere
+main.obj : error LNK2001: symbole externe non résolu __imp_glutSolidSphere
+main.obj : error LNK2019: symbole externe non résolu __imp_glutInitDisplayMode référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu __imp_glutInitWindowPosition référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu __imp_glutInitWindowSize référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu __imp_glutMainLoop référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu __imp___glutCreateWindowWithExit référencé dans la fonction glutCreateWindow_ATEXIT_HACK
+main.obj : error LNK2019: symbole externe non résolu __imp_glutPostRedisplay référencé dans la fonction "void __cdecl PMClavierSpecial(int,int,int)" (?PMClavierSpecial@@YAXHHH@Z)
+main.obj : error LNK2019: symbole externe non résolu __imp_glutDisplayFunc référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu __imp_glutReshapeFunc référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu __imp_glutTimerFunc référencé dans la fonction "void __cdecl PMTimer(int)" (?PMTimer@@YAXH@Z)
+main.obj : error LNK2019: symbole externe non résolu __imp_glutSpecialFunc référencé dans la fonction main
+LIB\glut32.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+D:\Work\Developpement\Projet\Pac Man\x64\Debug\Pac Man.exe : fatal error LNK1120: 11 externes non résolus

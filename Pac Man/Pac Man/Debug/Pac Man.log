@@ -1,0 +1,11 @@
+﻿  EnnemiBase.cpp
+  fantôme.cpp
+  fantôme2.cpp
+  fantôme3.cpp
+  fantôme4.cpp
+  joueur.cpp
+  main.cpp
+C:\Users\Kilian\Desktop\Kilian Cours - Pro\Pac Man\Pac Man\main.cpp(53,17): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  PersonnageBase.cpp
+  Génération de code en cours...
+  Pac Man.vcxproj -> C:\Users\Kilian\Desktop\Kilian Cours - Pro\Pac Man\Debug\Pac Man.exe
